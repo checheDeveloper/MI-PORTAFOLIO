@@ -1,12 +1,13 @@
-import React from "react";
+import React from 'react';
 
 function Cv () {
     return (
-      <div>
-        <header>
+      <>
+     
          <p>WHAT JAPEN BRO?</p>
-        </header>
-      </div>
+         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit sequi unde quisquam vero in quae architecto ipsa deleniti delectus nostrum ea recusandae nulla magni voluptates minima sint, voluptas inventore excepturi!
+        
+      </>
     );
   }
   
